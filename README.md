@@ -20,9 +20,9 @@ Deployed Website:
 
 ## Built With
 
-  * HTML
-  * CSS
-  * JavaScript
+  * HTML5
+  * CSS3
+  * JavaScript - ES6+
 
 ## Acknowledgments
 
