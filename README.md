@@ -16,7 +16,7 @@ Log in credentials:
 
 ## Deployment
 
-Deployed Website: 
+Deployed Website: https://bankist-shoeb.netlify.app/
 
 ## Built With
 
